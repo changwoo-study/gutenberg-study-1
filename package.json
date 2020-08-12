@@ -1,0 +1,17 @@
+{
+  "name": "gutenberg-study",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "devDependencies": {
+    "@wordpress/block-editor": "^4.3.1",
+    "@wordpress/edit-post": "^3.21.1",
+    "@wordpress/element": "^2.16.0",
+    "@wordpress/icons": "^2.4.0",
+    "@wordpress/scripts": "^12.1.1",
+    "react": "^16.13.1"
+  },
+  "license": "GPL-2.0-or-later",
+  "dependencies": {}
+}
